@@ -1,5 +1,7 @@
 # Overview
 
+from @eastpiger
+
 ## TIPS: YOU MUST READ ALL THIS FILE BEFORE USING IT!
 
 This project is designed to export your course table into ICS calendar file which is widely used in calendar apps on all of platform.
