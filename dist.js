@@ -356,7 +356,7 @@ if (Boolean(window.$) && check_page_allow()) {
 		var place = data.roomName;
 		var categories = ["ShanghaiTech", data.teacherName, "Course Table ICS Formatter"];
 		var alarms = [
-			{ ACTION: 'AUDIO', TRIGGER: '-PT20M' }
+			{ ACTION: 'AUDIO', TRIGGER: '-PT10M' }
 		];
 		var url = '';
 
